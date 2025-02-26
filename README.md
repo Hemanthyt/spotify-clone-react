@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.figma.com/community/resource/69097f62-a005-492c-b16f-07028025e5ee/thumbnail" alt="project-screenshot" width="450" height="450/">
+<img src="https://s3-alpha.figma.com/hub/file/3581673503/6edcf268-4aad-48ea-b149-9db20e818bbb-cover.png" alt="project-screenshot" width="450" height="450/">
 
   
   
