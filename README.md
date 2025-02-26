@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frutuja-shinde-37372a241_collaborations-html5-css-activity-7208094237349888000-PjXu&amp;psig=AOvVaw3cHCwpOTBZhrftXE-q3YHH&amp;ust=1740632802153000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCLCFhtTI4IsDFQAAAAAdAAAAABAR" alt="project-screenshot" width="450" height="450/">
+<img src="https://www.figma.com/community/resource/69097f62-a005-492c-b16f-07028025e5ee/thumbnail" alt="project-screenshot" width="450" height="450/">
 
   
   
