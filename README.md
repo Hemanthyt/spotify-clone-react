@@ -1,7 +1,5 @@
 <h1 align="center" id="title">🎵 Spotify Clone</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
 <p id="description">A Spotify Clone built using React.js and Tailwind CSS replicating core functionalities of Spotify including song playback controls album navigation and a sleek UI.</p>
 
 <h2>🚀 Demo</h2>
@@ -12,8 +10,6 @@
 
 <img src="https://s3-alpha.figma.com/hub/file/3581673503/6edcf268-4aad-48ea-b149-9db20e818bbb-cover.png" alt="project-screenshot" width="450" height="450/">
 
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
